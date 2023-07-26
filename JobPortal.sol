@@ -1,3 +1,9 @@
+/*
+The purpose of this contract is to make a job portal where applicant can create their 
+profile, we can fetch applicant’s data, create a new job, applying for new job, etc.
+*/
+
+
 pragma solidity ^0.8.0;
 
 contract JobPortal{
