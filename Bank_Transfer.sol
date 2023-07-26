@@ -1,3 +1,10 @@
+/*The purpose of this contract is to make a bank transfer transaction which includes 
+deposit, withdraw and transferring to another bank account functions.
+*/
+
+
+
+
 pragma solidity ^0.8.0;
 
 contract CustomBank{
